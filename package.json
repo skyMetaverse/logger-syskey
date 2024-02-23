@@ -1,0 +1,17 @@
+{
+  "name": "logger-syskey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "logger"
+  ],
+  "author": "syskey",
+  "license": "ISC",
+  "dependencies": {
+    "winston": "^3.11.0"
+  }
+}
