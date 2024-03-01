@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/skyMetaverse/logger-syskey"
+    "url": "https://github.com/skyMetaverse/logger-syskey.git"
   },
   "keywords": [
     "logger"
